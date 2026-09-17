@@ -17,8 +17,8 @@
  
  ## Product information
  - [Euroconnector OpenAPI definition](https://app.swaggerhub.com/apis-docs/euroconnector/econ-def)
- - [Product information (EN)](https://www.unifiedpostgroup.com/products/econnector)
- - [Product information (LT)](https://www.unifiedpostgroup.com/lt/products/econnector)
+ - [Product information (EN)](https://github.com/euroconnector/econ-doc/blob/main/Docs/EuroConnector%20solution%20-%20IT%20specification%20(EN).pdf)
+ - [Product information (LT)](https://github.com/euroconnector/econ-doc/blob/main/Docs/EuroConnector%20solution%20-%20IT%20specification%20(LT).pdf)
  
  ## Release notes
 
